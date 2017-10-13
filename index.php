@@ -30,6 +30,7 @@ include 'inc.body-header.php';
                 <div style="display:none;"><a href=""><img src="_images/slide-2.jpg" /></a></div>
                 <div style="display:none;"><a href=""><img src="_images/slide-3.jpg" /></a></div>
                 <div style="display:none;"><a href=""><img src="_images/slide-4.jpg" /></a></div>
+                <!-- NOTES -->
 
             </div><!-- END SLIDER -->
 
