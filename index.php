@@ -2,7 +2,7 @@
 
 $activesection = "homepage";
 
-$title = "Dallas Home Theater, Media Room, and Control 4 Home Automation Company";
+$title = "This is my page title";
 $keywords = "home theater dallas, home theater design dallas, home theater plano, home theater plano texas, home theater plano tx, media room dallas, media room plano, plano home theater, tekmax, tekmax dallas, tekmax technologies, tekmax technologies dallas, tekmax technologies inc, www.tekmax.com";
 $description = "Dallas Home theater, media rooms, and home automation company. Authorized Control4 Gold dealer. D/FW metroplex including Dallas, Plano, Frisco, Allen, and Southlake.";
 
